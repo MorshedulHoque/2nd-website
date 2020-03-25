@@ -1,0 +1,123 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+section{
+    height: 600px;
+    padding: 0%;
+}
+h1{
+    color: blueviolet;
+    font-size: 30px;
+    font-family: cursive;
+    margin-bottom: 10%;
+    margin-top: -3%;
+}
+.first-width{
+    width: 30%;
+    float: left;
+    padding-left: 3%;
+
+}
+#first{
+    margin-top: 9%;
+    margin-left: 14%;
+    text-align: justify;
+}
+
+.first-width img{
+    width: 128%;
+    margin-left: 23%;
+    margin-top: -7%;
+}
+.all-top{
+    position: initial;
+}
+.top-side{
+    background-image: url("personal-website/header-bg.png");
+    background-size: 100% 100%;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(224, 122, 255),blueviolet);
+    padding:10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.second-width{
+    width: 40%;
+    float: left;
+}
+.second-width img{
+    width: 100%;
+    margin-top: -10%;
+    margin-left: 35%;;
+    
+}
+.second-width h2{
+    margin-bottom: 6%;
+}
+#second{
+    margin-left: 9%;
+    margin-top: 12%;
+}
+#second p{
+    width: 84%;
+    margin-bottom: 8%;
+}
+.middle-part{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.leatest-work{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.leatest-work h2{
+    text-align: center;
+    margin: 5%;
+}
+.images-part img{
+    width: 25%;
+    float: left;
+    padding: 2%;
+}
+#first-image{
+    margin-left: 7%;
+}
+.footer{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+.email{
+    width: 30%;
+    margin-left: 35%;
+    background-color: brown;
+    color: white;
+    padding: 1%;
+    border-radius: 8px;
+}
+.last-part h2{
+    font-size: 34px;
+    padding-bottom: 4%;
+}
+.last-part h5{
+    color: rgb(161, 159, 159);
+    margin-top: -0.25%;
+    margin-bottom: 3%;
+}
+.last-part p{
+    margin-bottom: 4%;
+}
+.email h5{
+    font-family: inherit;
+}
+footer{
+    text-align: center;
+    color: rgb(177, 177, 177);
+}
